@@ -1,0 +1,16 @@
+{
+  "main": {
+    "name":"Responsive Website Portfolio",
+    "description":"I am a front-end web developer and I use react and vue.js to develop pages.",
+    "image":"profilepic.png",
+    "bio":"Hi! I am Patricia Mae Quitoriano, a student from the Polytechnic University of the Philippines. I am currently a DOST Scholar and a Rizal Government Scholar.",
+    "email": "work.patkyu@gmail.com",
+    "phone": "09270585088",
+    "address":{
+      "street":"15 Eden st.",
+      "city":"Antipolo City",
+      "province":"Rizal",
+      "zip": "1870"
+    }
+  }
+}
